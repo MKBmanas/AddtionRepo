@@ -3,7 +3,7 @@ public class Addtion {
 
 	public static void main(String[] args) {
 		int num1=100;
-		int num2=200;
+		int num2=700;
 		int add;
 		int mul;
 		add=num1+num2;
