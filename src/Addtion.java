@@ -6,9 +6,11 @@ public class Addtion {
 		int num2=700;
 		int add;
 		int mul;
+		int div;
 		add=num1+num2;
 		mul=num1*num2;
-		System.out.println(add+mul);
+		div=num1/num2;
+		System.out.println(add+mul+div);
 
 	}
 
